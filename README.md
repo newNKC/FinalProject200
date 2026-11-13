@@ -37,3 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 Link to Vercel
 https://final-project200-614kw2va2-newnkc.vercel.app/login
+
+
+link to figma
+https://www.figma.com/design/57vYaU2cXg2J0SuwFBhgOV/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B3%E0%B8%82%E0%B8%AD-%E2%80%94-UI---Prototype-v2?node-id=1-2&t=6CkY5TbmsYCmBsGY-1
